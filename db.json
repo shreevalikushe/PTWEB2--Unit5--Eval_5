@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "username": "Surekha",
+      "password": "surekha",
+      "id": 1
+    },
+    {
+      "username": "Shreevali",
+      "password": "shreevali",
+      "id": 2
+    },
+    {
+      "username": "Samrat",
+      "password": "samrat",
+      "id": 3
+    },
+    {
+      "username": "Harsh",
+      "password": "harsh",
+      "id": 4
+    },
+    {
+      "username": "Harsh",
+      "password": "harsh",
+      "id": 5
+    },
+    {
+      "username": "harsh",
+      "password": "harsh",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "post_title": "Beach",
+      "post_body": "Enjoying on Beach",
+      "author_id": 1,
+      "author_username": "Surekha"
+    },
+    {
+      "id": 2,
+      "post_title": "Rain",
+      "post_body": "Enjoying on Rain",
+      "author_id": 2,
+      "author_username": "Shreevali"
+    },
+    {
+      "id": 3,
+      "post_title": "Mountain",
+      "post_body": "Enjoying on Mountain",
+      "author_id": 3,
+      "author_username": "Samrat"
+    }
+  ],
+  "comments": []
+}

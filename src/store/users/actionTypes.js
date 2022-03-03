@@ -1,0 +1,7 @@
+export const GET_USER_LOADING = "GET_USER_LOADING";
+export const GET_USER_SUCESS = "GET_USER_SUCESS";
+export const GET_USER_ERROR = "GET_USER_ERROR";
+
+export const GET_POST_LOADING = "GET_POST_LOADING";
+export const GET_POST_SUCESS = "GET_POST_SUCESS";
+export const GET_POST_ERROR = "GET_POST_ERROR";
